@@ -1,2 +1,2 @@
 # MLOps
-MLOps Practice
+MLOps Setup and Code Files
